@@ -95,10 +95,10 @@
 
 ## 📫 Контакты
 
-- **Telegram:** [@твой_ник](https://t.me/твой_ник)
-- **Email:** [ivan@example.com](mailto:ivan@example.com)
+- **Telegram:** [@Vqwetdv](https://t.me/Vqwetdv)
+- **Email:** [zhivans2000@gmail.com](mailto:zhivans2000@gmail.com)
 - **Портфолио:** [zhivanser.github.io](https://zhivanser.github.io)
-- **Резюме:** [HeadHunter Profile](#)
+
 
 ---
 <p align="right">
