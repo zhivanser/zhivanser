@@ -1,58 +1,89 @@
-# Привет! Я Иван (zhivanser) 👋
-### Full-Stack разработчик | Системный программист | Edge AI Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A400&center=true&vCenter=true&width=700&lines=Привет!+Я+Иван+(zhivanser);Full-Stack+Developer;Systems+and+Edge+AI+Engineer;Blockchain+Enthusiast" alt="Typing SVG" />
+</p>
 
-Я занимаюсь коммерческой и продуктовой разработкой уже более 4 лет. Проектирую отказоустойчивый Backend, создаю адаптивный Frontend и оптимизирую нейросети под микроконтроллеры (Edge AI / tinyML). Умею быстро погружаться в сложные алгоритмические задачи и доводить архитектуру от концепта до production-решения.
-
----
-
-## 🚀 Главный проект: [Block-Cloud](https://block-cloud.ru)
-*Коммерческий продукт / Закрытый репозиторий*
-
-**Block-Cloud** — это децентрализованная платформа для безопасного и компрессионного хранения данных на базе блокчейн-технологий.
-- **Мой вклад:** Полностью спроектировал и реализовал архитектуру распределенного хранения данных, алгоритмы сжатия файлов и логику консенсуса для защиты от несанкционированного доступа.
-- **Результат:** Проект полностью готов, оптимизирован по скорости передачи данных и функционирует в production-среде. Из-за требований NDA и коммерческой ценности исходный код закрыт, но архитектурные решения готов обсудить на интервью.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zhivanser&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="github profile trophy" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Мой технологический стек
+### 👨‍💻 Обо мне
 
-<table>
-  <tr>
-    <td>**Языки программирования**</td>
-    <td>Python, C++, Java, JavaScript</td>
-  </tr>
-  <tr>
-    <td>**Frontend**</td>
-    <td>HTML5, CSS3, Адаптивная и кроссбраузерная верстка, UI/UX оптимизация</td>
-  </tr>
-  <tr>
-    <td>**Hardware & AI**</td>
-    <td>Системное программирование микроконтроллеров (ESP32), работа с сенсорами, оптимизация Edge AI и tinyML моделей под ограниченные аппаратные ресурсы</td>
-  </tr>
-  <tr>
-    <td>**Инфраструктура**</td>
-    <td>Администрирование серверов (VPS), деплой, настройка безопасных кастомных сетевых протоколов и маршрутизации (VLESS, Reality)</td>
-  </tr>
-</table>
+Я Full-Stack разработчик и системный программист с 4-летним опытом создания распределенных систем, веб-приложений и оптимизации алгоритмов. Глубоко погружен в Edge AI (tinyML) и низкоуровневую разработку для микроконтроллеров. Умею быстро собирать рабочие прототипы на хакатонах и доводить их до полноценной архитектуры уровня production.
 
 ---
 
-## 🏆 Достижения и Олимпиады
-Активно участвую в хакатонах и глубоко погружен в инженерные науки:
-- **1 место** на хакатоне **Nuclear IT** от НИЯУ МИФИ.
-- **Призер** отраслевой олимпиады **«Газпром»** по профилю «Инженерное дело».
-- **Финалист** профильных всероссийских олимпиад: «Шаг в будущее», ВсОШ по технологии, олимпиада «Росатом», «Высшая проба».
-- **Стартап-опыт:** Призер конкурсов предпринимательства с платформой «Гнездо» (полный цикл от идеи до питча, расчета Unit-экономики и анализа рынков TAM/SAM/SOM).
+## 🚀 Ключевой проект: [Block-Cloud](https://block-cloud.ru)
+*Коммерческая разработка / Closed Source*
+
+**Block-Cloud** — децентрализованная платформа для безопасного, сжатого и распределенного хранения данных на базе блокчейн-технологий.
+- **Что сделано:** С нуля спроектировал архитектуру системы, реализовал кастомные алгоритмы компрессии данных и логику консенсуса для обеспечения отказоустойчивости сети.
+- **Статус:** Проект полностью завершен, оптимизирован по ресурсам и функционирует в production. Исходный код закрыт коммерческим соглашением (NDA), но архитектурные паттерны готов защитить на техническом интервью.
 
 ---
 
-## 📊 Моя статистика на GitHub
+## 🛠 Технический стек & Навыки (Hard Skills)
 
-Ниже представлены автоматически обновляемые метрики моей активности и ключевых технологий:
+### 🚀 Языки программирования & Фреймворки
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### 🌐 Frontend & Верстка
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Адаптивная_верстка-000000?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
+</p>
+
+### ⚙️ Микроэлектроника, Системный софт и Сети
+* **Edge AI & tinyML:** Оптимизация и деплой нейросетевых моделей на микроконтроллеры с ограниченными аппаратными ресурсами (архитектура ESP32, работа с SIMD-слоями).
+* **Hardware:** Разработка прошивок, интеграция сенсоров, системная интеграция (робототехника, микроэлектроника).
+* **Инфраструктура и DevOps:** Администрирование Linux/VPS, развертывание отказоустойчивых приватных прокси и серверов с использованием современных протоколов маршрутизации (VLESS, Reality).
+* **Blockchain:** Проектирование архитектуры сжатого децентрализованного хранения данных.
+
+---
+
+## 🧠 Личные качества (Soft Skills)
+
+* **Продуктовое мышление:** Не просто пишу код, а оцениваю бизнес-метрики. Умею рассчитывать Unit-экономику и анализировать рыночный потенциал продукта (TAM/SAM/SOM).
+* **Работа в команде и лидерство:** Успешный опыт совместной работы с дизайнерами, маркетологами и аналитиками над MVP-продуктами в условиях жестких дедлайнов.
+* **Питчинг и презентация:** Умею аргументированно защищать технические и архитектурные решения перед инвесторами, жюри хакатонов и заказчиками.
+* **Стрессоустойчивость:** Навык эффективного распределения задач в условиях 48-часовых хакатонов.
+
+---
+
+## 🏆 Достижения, Хакатоны и Олимпиады
+
+- 🥇 **1 место** — Хакатон **Nuclear IT** от НИЯУ МИФИ.
+- 🥈 **Призер** — Отраслевая олимпиада **«Газпром»** (профиль «Инженерное дело»).
+- 🥉 **3 место** — Всероссийский конкурс предпринимательских проектов (разработка и защита платформы «Гнездо»).
+- 🎯 **Финалист** — Ведущие технические олимпиады России: «Шаг в будущее», ВсОШ по технологии, Инженерная олимпиада, «Росатом», «Высшая проба».
+
+---
+
+## 📂 Демонстрационные Frontend-проекты
+Репозитории ниже открыты для демонстрации чистоты кода, семантической верстки и логики построения UI:
+
+* 🌐 **[zhivanser.github.io](https://zhivanser.github.io)** — Мой персональный сайт-визитка (GitHub Pages).
+* 📱 **[SmartCase](https://github.com/zhivanser/SmartCase)** — Адаптивный веб-интерфейс.
+* 🛠 **[PCmaster](https://github.com/zhivanser/PCmaster)** — Лендинг для технического сервисного центра.
+* 🚕 **[Uber](https://github.com/zhivanser/Uber)** — Демонстрационный проект коммерческой посадочной страницы.
+* 💓 **[Pulse](https://github.com/zhivanser/Pulse)** — Проект интерактивного UI/UX интерфейса.
+* 📝 **[Wordpress](https://github.com/zhivanser/Wordpress)** — Кастомная тема/шаблон на чистом CSS.
+
+---
+
+## 📊 Аналитика профиля
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhivanser&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Статистика zhivanser" height="192px"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhivanser&layout=compact&theme=dark" alt="Языки zhivanser" height="192px"/>
 </p>
 
@@ -62,26 +93,15 @@
 
 ---
 
-## 📂 Демонстрационные Frontend-проекты
-Эти пет-проекты отражают мои навыки адаптивной верстки, работы со стилями и реализации интерфейсов:
+## 📫 Контакты
 
-* 🌐 **[zhivanser.github.io](https://zhivanser.github.io)** — Мой персональный сайт-визитка (GitHub Pages).
-* 📱 **[SmartCase](https://github.com/zhivanser/SmartCase)** — Адаптивный интерфейс веб-приложения.
-* 🛠 **[PCmaster](https://github.com/zhivanser/PCmaster)** — Посадочная страница для сервисного центра.
-* 🚕 **[Uber](https://github.com/zhivanser/Uber)** — Качественный лендинг с использованием современных методик CSS.
-* 💓 **[Pulse](https://github.com/zhivanser/Pulse)** — Проект интерактивного интерфейса.
-* 📝 **[Wordpress](https://github.com/zhivanser/Wordpress)** — Стилизованный шаблон блога на чистом CSS.
-
----
-
-## 📫 Контакты для связи
-Открыт к предложениям по работе, стартап-инициативам и сложным инженерным проектам.
-
-- **Telegram:** [@твой_ник](https://t.me/твой_ник) - **Email:** [ivan@example.com](mailto:ivan@example.com) - **Сайт-визитка:** [zhivanser.github.io](https://zhivanser.github.io)
-- **Habr Career / HeadHunter:** [Ссылка на резюме](#)
+- **Telegram:** [@твой_ник](https://t.me/твой_ник)
+- **Email:** [ivan@example.com](mailto:ivan@example.com)
+- **Портфолио:** [zhivanser.github.io](https://zhivanser.github.io)
+- **Резюме:** [HeadHunter Profile](#)
 
 ---
 <p align="right">
-  <i>Просмотров этого профиля: </i>
-  <img src="https://komarev.com/ghpvc/?username=zhivanser&color=blue&style=flat-square" alt="Счетчик просмотров" valign="middle"/>
+  <i>Просмотров профиля: </i>
+  <img src="https://komarev.com/ghpvc/?username=zhivanser&color=orange&style=flat-square" alt="Счетчик" valign="middle"/>
 </p>
