@@ -83,11 +83,9 @@
 ## 📊 Аналитика профиля
 
 <p align="center">
-  <img src="https://github-readme-stats.rh99.ru/api?username=zhivanser&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Статистика zhivanser" height="192px"/>
-  
-  <img src="https://github-readme-stats.rh99.ru/api/top-langs/?username=zhivanser&layout=compact&theme=dark" alt="Языки zhivanser" height="192px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=zhivanser&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Статистика zhivanser" height="192px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=zhivanser&layout=compact&theme=dark" alt="Языки zhivanser" height="192px"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhivanser&theme=dark" alt="Стрик коммитов zhivanser" />
 </p>
