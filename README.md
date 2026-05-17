@@ -1,16 +1,87 @@
-## Hi there 👋
+# Привет! Я Иван (zhivanser) 👋
+### Full-Stack разработчик | Системный программист | Edge AI Engineer
 
-<!--
-**zhivanser/zhivanser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь коммерческой и продуктовой разработкой уже более 4 лет. Проектирую отказоустойчивый Backend, создаю адаптивный Frontend и оптимизирую нейросети под микроконтроллеры (Edge AI / tinyML). Умею быстро погружаться в сложные алгоритмические задачи и доводить архитектуру от концепта до production-решения.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Главный проект: [Block-Cloud](https://block-cloud.ru)
+*Коммерческий продукт / Закрытый репозиторий*
+
+**Block-Cloud** — это децентрализованная платформа для безопасного и компрессионного хранения данных на базе блокчейн-технологий.
+- **Мой вклад:** Полностью спроектировал и реализовал архитектуру распределенного хранения данных, алгоритмы сжатия файлов и логику консенсуса для защиты от несанкционированного доступа.
+- **Результат:** Проект полностью готов, оптимизирован по скорости передачи данных и функционирует в production-среде. Из-за требований NDA и коммерческой ценности исходный код закрыт, но архитектурные решения готов обсудить на интервью.
+
+---
+
+## 🛠 Мой технологический стек
+
+<table>
+  <tr>
+    <td>**Языки программирования**</td>
+    <td>Python, C++, Java, JavaScript</td>
+  </tr>
+  <tr>
+    <td>**Frontend**</td>
+    <td>HTML5, CSS3, Адаптивная и кроссбраузерная верстка, UI/UX оптимизация</td>
+  </tr>
+  <tr>
+    <td>**Hardware & AI**</td>
+    <td>Системное программирование микроконтроллеров (ESP32), работа с сенсорами, оптимизация Edge AI и tinyML моделей под ограниченные аппаратные ресурсы</td>
+  </tr>
+  <tr>
+    <td>**Инфраструктура**</td>
+    <td>Администрирование серверов (VPS), деплой, настройка безопасных кастомных сетевых протоколов и маршрутизации (VLESS, Reality)</td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Достижения и Олимпиады
+Активно участвую в хакатонах и глубоко погружен в инженерные науки:
+- **1 место** на хакатоне **Nuclear IT** от НИЯУ МИФИ.
+- **Призер** отраслевой олимпиады **«Газпром»** по профилю «Инженерное дело».
+- **Финалист** профильных всероссийских олимпиад: «Шаг в будущее», ВсОШ по технологии, олимпиада «Росатом», «Высшая проба».
+- **Стартап-опыт:** Призер конкурсов предпринимательства с платформой «Гнездо» (полный цикл от идеи до питча, расчета Unit-экономики и анализа рынков TAM/SAM/SOM).
+
+---
+
+## 📊 Моя статистика на GitHub
+
+Ниже представлены автоматически обновляемые метрики моей активности и ключевых технологий:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhivanser&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Статистика zhivanser" height="192px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhivanser&layout=compact&theme=dark" alt="Языки zhivanser" height="192px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhivanser&theme=dark" alt="Стрик коммитов zhivanser" />
+</p>
+
+---
+
+## 📂 Демонстрационные Frontend-проекты
+Эти пет-проекты отражают мои навыки адаптивной верстки, работы со стилями и реализации интерфейсов:
+
+* 🌐 **[zhivanser.github.io](https://zhivanser.github.io)** — Мой персональный сайт-визитка (GitHub Pages).
+* 📱 **[SmartCase](https://github.com/zhivanser/SmartCase)** — Адаптивный интерфейс веб-приложения.
+* 🛠 **[PCmaster](https://github.com/zhivanser/PCmaster)** — Посадочная страница для сервисного центра.
+* 🚕 **[Uber](https://github.com/zhivanser/Uber)** — Качественный лендинг с использованием современных методик CSS.
+* 💓 **[Pulse](https://github.com/zhivanser/Pulse)** — Проект интерактивного интерфейса.
+* 📝 **[Wordpress](https://github.com/zhivanser/Wordpress)** — Стилизованный шаблон блога на чистом CSS.
+
+---
+
+## 📫 Контакты для связи
+Открыт к предложениям по работе, стартап-инициативам и сложным инженерным проектам.
+
+- **Telegram:** [@твой_ник](https://t.me/твой_ник) - **Email:** [ivan@example.com](mailto:ivan@example.com) - **Сайт-визитка:** [zhivanser.github.io](https://zhivanser.github.io)
+- **Habr Career / HeadHunter:** [Ссылка на резюме](#)
+
+---
+<p align="right">
+  <i>Просмотров этого профиля: </i>
+  <img src="https://komarev.com/ghpvc/?username=zhivanser&color=blue&style=flat-square" alt="Счетчик просмотров" valign="middle"/>
+</p>
